@@ -6,4 +6,5 @@ tags:
   - Worldmap
 ---
 
-![[Eastern Exandria HD.png]]
+![[Eastern Exandria HD Player.png]]
+
