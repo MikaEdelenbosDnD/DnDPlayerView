@@ -2,18 +2,18 @@
 title: "Port Cavado"
 draft: false
 tags:
-  - Steden
+  - Stad
 ---
 > [!info]
 > | Geografie |  | Politiek | |
 > | ---- | --- | ---- | --- |
 > | Soort | Stad | Soort | Autoritarisme |
 > | Grote | Kleine Stad | Leider | Valeriano Regla |
-> | Regio | [[Cestius Accord Public]] | Defensie | Piraten en huurlingen | 
+> | Regio | Cestius Accord | Defensie | Piraten en huurlingen | 
 >
 > | Organisaties |   | Handel |  |
 > | --- | --- | --- | ---- |
-> | Organisaties  | [[Revelry Public]] | Export   | Contraband, Scheepsbouw, Huurlingen |
+> | Organisaties  | Revelry | Export   | Contraband, Scheepsbouw, Huurlingen |
 > | Tempels  | Geen | Import  | Magical Items |
 > 
 > | Maatschappij |  |
@@ -28,33 +28,33 @@ tags:
 > 	- The Golden Trip
 > - Winkels 
 > 	- Uhane's Potions and Salves
-> 	- Dwarven Anvil Blacksmith
-> 	- Kester's Leather Goods
+> 	- Water Anvil Blacksmith
+> 	- Oliver's Leather Goods
 > 	- N'jante's Magical Emporium
 > 	- Smalling's Shipswarf
 
 
 ## Facties
 ### Revelry
-Port Cavado is de thuisbasis van de [[Revelry Public]] onder leiding van de High C, elk jaar worden de top 6 piraten verkozen tot representatives van de revelry en overzien verschillende delen van Port Cavado, van handel tot veiligheid en antwoorden aan de High C.
+Port Cavado is de thuisbasis van de [[Revelry Public | Revelry]] onder leiding van de High C, elk jaar worden de top 6 piraten verkozen tot representatives van de revelry en overzien verschillende delen van Port Cavado, van handel tot veiligheid en antwoorden aan de High C.
 
 ### Cestius Accord
-Het [[Cestius Accord Public]] en de [[Revelry Public]] hebben op dit moment een wapenstilstand. Maar zijn nog zeker in oorlog met elkaar. Desondanks dit zijn er een paar belangrijke figuren in het Cestius Accord die achter de schermen in handel zijn met de Revelry.
+Het [[Cestius Accord Public | Cestius Accord]] en de [[Revelry Public | Revelry]] hebben op dit moment een wapenstilstand. Maar zijn nog zeker in oorlog met elkaar. Desondanks dit zijn er een paar belangrijke figuren in het Cestius Accord die achter de schermen in handel zijn met de Revelry.
 
 ### Myriad
-De [[Myriad Public]] gebruikt Port Cavado voor het verkopen van hun illegale goederen en zijn de laatste jaren tijdens de opbouw op goede termen met de [[Revelry Public]]. Voor het verkopen neemt de Revelry een tax van 2.5% onafhankelijk van het product.
+De [[Myriad Public | Myriad]] gebruikt Port Cavado voor het verkopen van hun illegale goederen en zijn de laatste jaren tijdens de opbouw op goede termen met de [[Revelry Public | Revelry]]. Voor het verkopen neemt de Revelry een tax van 2.5% onafhankelijk van het product.
 
 ## De Handel 
-Origineel bestond de economie van de [[Revelry Public]] uit het plunderen van trade routes van het [[Cestius Accord Public]] maar tegenwoordig is deze economie gegroeid tot een economie waardig van een land. Door handelsovereenkomsten met de [[Myriad Public]] in het Duwath Empire en bepaalde leiders in het [[Cestius Accord Public]]] is het nu een grootste handelspunt voor illegale goederen in Eastern-Exandria.  
-De handel wordt overzien door [[Elias la Riqueza Public]]
+Origineel bestond de economie van de [[Revelry Public | Revelry]] uit het plunderen van trade routes van het [[Cestius Accord Public | Cestius Accord]] maar tegenwoordig is deze economie gegroeid tot een economie waardig van een land. Door handelsovereenkomsten met de [[Myriad Public | Myriad]] in het Duwath Empire en bepaalde leiders in het [[Cestius Accord Public | Cestius Accord]]] is het nu een grootste handelspunt voor illegale goederen in Eastern-Exandria.  
+De handel wordt overzien door [[Elias la Riqueza Public | Elias la Riqueza]]
 
-De beveiliging wordt overzien door [[Juan Serrano Public]]
+De beveiliging wordt overzien door [[Juan Serrano Public | Juan Serrano]]
 
 ### Illegale Goederen
-Aangeleverd door de [[Myriad Public]] of gevonden in het [[Cestius Accord Public]] de grootste markt van illegale goederen is te vinden in Port Cavado. Voor de meest voorkomende goederen zijn er meerdere winkels te vinden in het handels district. Voor de meer zeldzame goederen is er elke drie maanden een veiling in Desirat's Luck.
+Aangeleverd door de [[Myriad Public | Myriad]] of gevonden in het [[Cestius Accord Public | Cestius Accord]] de grootste markt van illegale goederen is te vinden in Port Cavado. Voor de meest voorkomende goederen zijn er meerdere winkels te vinden in het handels district. Voor de meer zeldzame goederen is er elke drie maanden een veiling in Desirat's Luck.
 
 ### Scheepsbouw
-Met de oorlog en piraaterij was er een vraag naar reparaties en nieuwe schepen, hierdoor is over de jaren wat begon als een noodzaak gegroeid naar een lucratieve handel.
+Met de oorlog en piraterij was er een vraag naar reparaties en nieuwe schepen, hierdoor is over de jaren wat begon als een noodzaak gegroeid naar een lucratieve handel.
 
 ### Magic items
 Magic items van al over Exandria worden naar Port Cavado gebracht voor dagelijks verkoop of voor op de veiling. Er zijn meerdere locaties in het handels district waar magic items gekocht kunnen worden.
@@ -64,7 +64,7 @@ Als je de hulp nodig hebt in de onderwereld is Port Cavado waar je wilt zijn, hi
 
 ## Belangrijke Locaties
 ### Administratie Bureau
-Het administratie bureau is de plek om je aan te sluiten bij de [[Revelry Public]]. Het wordt beheert door Isabel Garcia zij is verantwoordelijk voor alle zaken van het administratie bureau. Het bureau is de plek waar elk lid van de revelry geregistreerd staat. Ook hebben ze een database met het bloed van elk lid van de revelry. In ruil hiervoor krijgen de revelry leden een kompas om veilig Port Cavado te vinden.
+Het administratie bureau is de plek om je aan te sluiten bij de [[Revelry Public | Revelry]]. Het wordt beheert door Isabel Garcia zij is verantwoordelijk voor alle zaken van het administratie bureau. Het bureau is de plek waar elk lid van de revelry geregistreerd staat. Ook hebben ze een database met het bloed van elk lid van de revelry. In ruil hiervoor krijgen de revelry leden een kompas om veilig Port Cavado te vinden.
 
 ### Taverns
 #### Het Random Anker
@@ -83,11 +83,11 @@ The golden trip is één van de vier taverns in Port Cavado, de tavern staat in 
 #### Uhane's Potions and Salves
 In een grote winkelstraat zonder bord boven de deur staat dit kleine winkeltje. Een donker, small en lang pand beklommen tot aan het dak met allerlei soorten planten. Achterin staat een balie met een kleine vrouw er achter genaamd Uhane. Ondanks het uiterlijk van de winkel is Uhane's Potions en Salves de plek voor je duistere en mindere duistere doelen.
 
-#### Dwarven Anvil Blacksmith
-Midden in het productie district staat een gebouw in de vorm van een aambeeld. De Dwarven Anvil Blacksmith, Onderleiding van Finn Stoneheart is dit de enige blacksmith in Port Cavado.
+#### Water Anvil Blacksmith
+Midden in het productie district staat een gebouw in de vorm van een aambeeld. De Water Anvil Blacksmith, Onderleiding van Finn Stoneheart is dit de enige blacksmith in Port Cavado.
 
-#### Kester's Leather Goods
-In de lange winkelstraat van het handels district staat dit bescheiden huisje. Zonder een echt inventaris is Kester's Leather Goods de plek om je huiden te verwerken in armor of te verkopen.
+#### Oliver's Leather Goods
+In de lange winkelstraat van het handels district staat dit bescheiden huisje. Zonder een echt inventaris is Oliver's Leather Goods de plek om je huiden te verwerken in armor of te verkopen.
 
 #### N'Jante's Magical Emporium
 Op het plein van het handels district staat een kleine paarse tent met een magische text N'Jante's Magical Emporium. Eenmaal binnen is de tent vele maten groter dan dat deze lijkt van de buitenkant. Gevuld met kasten met magic items er in, boekenkasten met magische boeken, scroll kabinetten met scrolls er in en in het midden een houten tafel gevuld met water. De winkel wordt beheerd door N'Jante.
@@ -99,7 +99,7 @@ Naast de grote haven van Port Cavado staat Smalling's Shipwarf een groot werf wa
 Het enige natuurlijke licht in de stad is de Spire of Light. Een gat in het plafond waar één grote lichtstraal naar beneden komt wat overdag de spire oplaad en de stad verlicht. Als de lichtstraal verdwijnt in de nacht gebruikt de spire de energie om als soort vuurtoren te figureren en de hele stad te volzien van natuurlijk daglicht. Het is uitgevonden door Edward Smalling
 
 ### Desirat's Luck
-Desirat's Luck is één van de hoofd attracties van Port Cavado, een groot casino op de meeste dagen veranderd elke drie maanden voor één dag in de grootste veiling van ondergrondse goederen, zeldzame magic items en geheime informatie van de superpowers in Exandria. Beheerd door [[Elias la Riqueza Public]] is Desirat's Luck één van de meeste lucratieve inkomens van Port Cavado.
+Desirat's Luck is één van de hoofd attracties van Port Cavado, een groot casino op de meeste dagen veranderd elke drie maanden voor één dag in de grootste veiling van ondergrondse goederen, zeldzame magic items en geheime informatie van de superpowers in Exandria. Beheerd door [[Elias la Riqueza Public | Elias la Riqueza]] is Desirat's Luck één van de meeste lucratieve inkomens van Port Cavado.
 
 ### Belangrijke Huizen
 #### Aubreck's Estate
@@ -113,43 +113,43 @@ Een district gemaakt voor de Council of Six en de High C waar de council en de H
 > [!info]
 > # Valeriano Regla
 > ###### High C van de Revelry
-> | Type | Details |
+> | Basis Informatie | |
 > | ---- | ---- |
 > | **Leeftijd** | 35 |
 > | **Species** | Elf |
 > |**Geslacht**| Vrouw |
 
 #### Valeriano Regla, High C van de Revelry
-[[Valeriano Regla Public]] beter bekend als de High C is de leider van de [[Revelry Public]].
+[[Valeriano Regla Public | Valeriano Regla]] beter bekend als de High C is de leider van de [[Revelry Public | Revelry]].
 
 > [!info]
 > # Elias la Riqueza
 > ###### Captain of the Sapphire Fleet
-> | Type | Details |
+> | Basis Informatie | |
 > | ---- | ---- |
 > | **Leeftijd** | 20 |
 > | **Species** | Halfling |
 > |**Geslacht**| Man |
 
 #### Elias la Riqueza, Captain of the Sapphire Fleet
-[[Elias la Riqueza Public]] ook bekend als de Mr. Diamond Hands is kapitein van de Sapphire Fleet en is ondanks zijn jonge leeftijd van 20 één van de rijkste en belangrijkste piraten in Port Cavado. Hij is onderdeel van zes regerende piraten onder de High C en overziet de handel en logistiek van Port Cavado.
+[[Elias la Riqueza Public | Elias la Riqueza]] ook bekend als de Mr. Diamond Hands is kapitein van de Sapphire Fleet en is ondanks zijn jonge leeftijd van 20 één van de rijkste en belangrijkste piraten in Port Cavado. Hij is onderdeel van zes regerende piraten onder de High C en overziet de handel en logistiek van Port Cavado.
 
 > [!info]
 > # Juan Serrano
 > ###### Captain of the Red Raiders
-> | Type | Details |
+> | Basis Informatie | |
 > | ---- | ---- |
 > | **Leeftijd** | 36 |
 > | **Species** | Goliath |
 > |**Geslacht**| Man |
 
 #### Juan Serrano, Captain of the Red Raiders
-[[Juan Serrano Public]] ook bekend als de Devil of the Archipelago is de kapitein van de Red Raiders en is onderdeel van de zes regerende Piraten onder de High C en overziet de beveiliging. Juan staat bekent om zijn meedogenloosheid em zijn hoge alcohol tolerantie. Hij is de broer van Amadi en co-owner van het Random Anker.
+[[Juan Serrano Public | Juan Serrano]] ook bekend als de Devil of the Archipelago is de kapitein van de Red Raiders en is onderdeel van de zes regerende Piraten onder de High C en overziet de beveiliging. Juan staat bekent om zijn meedogenloosheid em zijn hoge alcohol tolerantie. Hij is de broer van Amadi en co-owner van het Random Anker.
 
 > [!info]
 > # Ignacio Delgado
 > ###### Captain of the Black Blood Fleet
-> | Type | Details |
+> | Basis Informatie | |
 > | ---- | ---- |
 > | **Leeftijd** | 36 |
 > | **Species** | Thiefling |
@@ -157,4 +157,4 @@ Een district gemaakt voor de Council of Six en de High C waar de council en de H
 > |**Status**| Dood |
 
 #### Ignacio Delgado, Captain of the Black Blood Fleet
-[[Ignacio Delgado Public]] ook bekend als de Surgeon is de kapitein van de Black Blood Fleet en is onderdeel van de zes regerende Piraten onder de High C en overziet het spionnen netwerk in Port Cavado.
+[[Ignacio Delgado Public | Ignacio Delgado]] ook bekend als de Surgeon is de kapitein van de Black Blood Fleet en is onderdeel van de zes regerende Piraten onder de High C en overziet het spionnen netwerk in Port Cavado.

@@ -3,13 +3,32 @@ title: Welkom in Exandria
 ---
 
 - De Wereld
-	- [[Worldmap]]
-- Steden
-	- [[Port Cavado Public]]
-- Organisaties
+	- [[Worldmap | Wereldkaart]]
+- Locaties
+	- Cestius Accord
+		- [[Astrax Public | Astrax]]
+		- [[Lotusfall Public | Lotusfall]]
+		- [[Othe Public | Othe]]
+		- [[Saltmarsh Public | Saltmarsh]]
 	- Revelry
+		- [[Port Cavado Public | Port Cavado]]
+- Organisaties
+	- [[Cestius Accord Public | Cestius Accord]]
+	- [[Myriad Public | Myriad]]
+	- [[Revelry Public | Revelry]]
+	- [[Scarlet Rose Council Public | Scarlet Rose Council]]
 - Belangrijke Personen
-	-
-- Shops
-	- 
+	- Port Cavado
+		- [[Elias la Riqueza Public | Elias la Riqueza]]
+		- [[Ignacio Delgado Public | Ignacio Delgado]]
+		- [[Juan Serrano Public | Juan Serrano]]
+		- [[Valeriano Regla Public | Valeriano Regla]]
+	- Scarlet Rose Council
+		- [[Onbekende Vrouw Public | Onbekende Vrouw]]
+- Goden
+	- [[Melora Public | Melora]]
+	- [[Pelor Public | Pelor]]
+	- [[Sehanine Public | Sehanine]]
+- Misc
+	- [[Het Schip]]
 
