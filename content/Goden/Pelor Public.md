@@ -4,6 +4,7 @@ draft: false
 tags:
    - Goden
 ---
+![[Pelor.webp]]
 # Pelor, The Dawn Father
 Pelor heerst over de zon en de zomer. Als heer van de landbouw en voorbode van de oogst wordt hij aanbeden door boeren en het gewone volk, en zijn priesters zijn welkom in vele landen. Als helper van de zielige en vernietiger van het kwaad is de Dawn Father vaak de god van paladins en rangers die vergelijkbare idealen hebben. Hij staat ook bekend om zijn nederlaag van de Chained Oblivion en wordt vereerd door degenen die op aberrations jagen. Pelor is vaak te vinden in het Fort van de Zon, een glanzende, gouden citadel die levendig leven brengt in de kale boomgaarden van de gezegende velden van Elysium.
 ## Afbeelding

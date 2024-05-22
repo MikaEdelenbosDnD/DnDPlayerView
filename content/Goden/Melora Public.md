@@ -4,6 +4,7 @@ draft: false
 tags:
   - Goden
 ---
+![[Melora.webp]]
 # Melora, The Wild Mother
 Het rijk van Melora strekt zich uit tot waar de zeeën verschuiven en het land wild wordt. Als hoedster van de wildernis vertegenwoordigt Melora de wilde wezens van de natuur, de woeste stroomversnellingen en de hitte zware stilte van de woestijn. Elfen aanbidden haar, net als jagers, die haar leiding aanvaarden om harmonieus te kunnen bestaan in woeste landen. Zij die op zoek zijn naar een veilige oversteek wateren bidden tot haar om hen te leiden. Volgelingen van de Raven Queen tonen ook respect voor de Wild Mother als de verzorgster van wat overblijft wanneer het werk van de Matrone des Doods gedaan is. Degenen van Ki'Nau maken vaak offers aan Melora, omdat ze haar beschouwen als een collectieve entiteit van hun oude natuurgoden goden. Melora geeft er de voorkeur aan om door de vlaktes te zwerven en toezicht te houden op het natuurlijke leven. Ze is vaak te vinden tussen de onaardse schoonheid van Arvandors oneindige uitgestrektheid van diepe bossen, op jacht naar onnatuurlijke dingen die de wildernis aantasten. 
 ## Afbeelding
