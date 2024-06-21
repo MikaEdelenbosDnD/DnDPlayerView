@@ -29,6 +29,8 @@ title: Welkom in Exandria
 	- [[Melora Public | Melora]]
 	- [[Pelor Public | Pelor]]
 	- [[Sehanine Public | Sehanine]]
+- Gebeurtenissen
+	- [[Divergence Public | Divergence]]
 - Misc
 	- [[Het Schip]]
 

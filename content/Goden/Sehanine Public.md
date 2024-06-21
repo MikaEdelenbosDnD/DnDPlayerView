@@ -1,10 +1,10 @@
 ---
-title: "Sehanine"
+title: "Sehanine, The Moonweaver"
 draft: false
 tags:
   - Goden
 ---
-![[Sehanine.webp]]
+![[Sehanine Public.webp]]
 # Sehanine, The Moon Weaver
 Sehanine is de god van het maanlicht, maar ook de beschermgod van illusies en misleiding. Ze wordt veel aanbeden in halfling- en elfenculturen en wordt beschouwd als de godin van de liefde, die de afspraakjes van geliefden beschermt met schaduwen die ze zelf heeft gemaakt. Degenen die zich bezighouden met duisternis en bedrog vragen vaak om haar zegen. Sehanine is te vinden in de groene bossen van het rijk Arborea, wakend over de elvenhoven of zwervend door de kleurrijke velden van de Feywild.
 
