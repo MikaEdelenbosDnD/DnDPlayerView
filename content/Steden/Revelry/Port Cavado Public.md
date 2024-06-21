@@ -18,7 +18,7 @@ tags:
 > 
 > | Maatschappij |  |
 > | ---- | --- |
-> | Populatie  | 1500 |
+> | Populatie  | 8500 |
 > | Races  | 40% Human, 15% Elves, 25% Dwarves, 10% Tabaxi, 10% Other Races |
 >  
 > - Inn's

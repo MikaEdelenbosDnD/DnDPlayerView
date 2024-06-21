@@ -20,7 +20,7 @@ tags:
 > 
 > | Maatschappij |  |
 > | ---- | --- |
-> | Populatie  | 82,110 |
+> | Populatie  | 182,110 |
 > | Races  | 51% Human, 16% Halflings, 15% Elves, 18% Rest |
 >  
 > - Inn's
