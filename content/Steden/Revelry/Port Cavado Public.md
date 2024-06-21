@@ -105,6 +105,8 @@ Desirat's Luck is één van de hoofd attracties van Port Cavado, een groot casin
 #### Aubreck's Estate
 Aubreck's Estate is het huis van een gevallen zakenman genaamd Aubreck. Het huis is in slechte staat, het gras is net te lang, er zitten wat roest plekken op het hek en het hout van het huis is slecht onderhouden. Aubreck heeft veel geld verloren vanwege een ramp in het Duweth empire, maar staat op het punt om zijn luck om te draaien. Er is een schip onderweg genaamd de Emperor of the Waves waar aan boord een kist staat met belangrijke documenten waarmee hij zijn schulden kan afbetalen en zijn fortuin weer op kan bouwen.
 
+De groep heeft Aubreck geholpen door de kist terug te brengen veilig terug te brengen. Aubreck heeft z'n schulden af kunnen betalen en heeft alweer nieuwe deals kunnen sluiten om zijn fortuin langzaam weer op te kunnen bouwen.
+
 #### Council of Six district
 Een district gemaakt voor de Council of Six en de High C waar de council en de High C wonen en overleggen.
 
