@@ -1,6 +1,5 @@
 ---
 title: "Manuel Perfida"
-draft: true
 tags:
   - NPC
   - Port Cavado
