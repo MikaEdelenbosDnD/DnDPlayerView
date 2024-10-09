@@ -59,7 +59,7 @@ The more ingredients a recipe has, the more magical effects it imparts to those 
 *Omitting Ingredients* 
 A cook can replace a magical ingredient with a nonmagical one. If they choose to do so, they don’t get the associated magical effect of the nonmagical component, but can still attempt to craft the meal. For example, if a creature wants to make a REDACTED, but has no REDACTED, they can use the REDACTED of any creature (provided it hasn’t spoiled) to complete the recipe. The DC for the recipe doesn’t change, and the magical meal only imparts the effects of the three magical components used: REDACTED, REDACTED, and REDACTED
 
-.**Boss Monster Recipes**
+**Boss Monster Recipes**
 Boss Monster recipes confer unique effects in addition to the effects of the components that make up the recipes. For example, aboleth ramen gives you the effect of aboleth flesh (bonus psychic damage) and the additional effect granted from consuming the boss dish (increased reach).
 
 **Known Boss Recipes**
