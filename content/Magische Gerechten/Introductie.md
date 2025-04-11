@@ -56,6 +56,20 @@ The more ingredients a recipe has, the more magical effects it imparts to those 
 | Hearty Stew     | Heart                |
 | Liverwurst      | Liver                |
 
+**Known Journeyman Recipes**
+
+| Recipe          | Ingredient  |
+| --------------- | ----------- |
+| Dwarven Scotch  | Egg + Flesh |
+| Black Pudding   | Blood + Fat |
+| Carrion Delight | Bone + Fat  |
+
+**Known Expert Recipes**
+
+| Recipe         | Ingredient         |
+| -------------- | ------------------ |
+| Brain Barbacoa | Bone + Brain + Eye |
+
 *Omitting Ingredients* 
 A cook can replace a magical ingredient with a nonmagical one. If they choose to do so, they don’t get the associated magical effect of the nonmagical component, but can still attempt to craft the meal. For example, if a creature wants to make a REDACTED, but has no REDACTED, they can use the REDACTED of any creature (provided it hasn’t spoiled) to complete the recipe. The DC for the recipe doesn’t change, and the magical meal only imparts the effects of the three magical components used: REDACTED, REDACTED, and REDACTED
 

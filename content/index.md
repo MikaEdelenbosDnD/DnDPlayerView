@@ -31,6 +31,22 @@ title: Welkom in Exandria
 	- [[Sehanine Public | Sehanine]]
 - Gebeurtenissen
 	- [[Divergence Public | Divergence]]
+- Magische Gerechten
+	- [[Introductie]]
+	- Ingredient Bonuses
+		- [[Blood Public]]
+		- [[Bone Public]]
+		- [[Brain Public]]
+		- [[Egg Public]]
+		- [[Eye Public]]
+		- [[Fat Public]]
+		- [[Flesh Public]]
+		- [[Heart Public]]
+		- [[Liver Public]]
+		- [[Quirks Public]]
+		- [[Spice Public]]
+	- Recipes
+		- [[Magnetite Dragon Recipes Public]]
 - Misc
 	- [[Het Schip]]
 
