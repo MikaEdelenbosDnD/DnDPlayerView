@@ -19,7 +19,7 @@ A magical meal is typically large enough to feed one Large creature or up to fou
 - Essence 
 - Cook’s utensils 
 - A source of heat 
-A creature with all these in their possession can spend 1 hour cooking. At the conclusion of the hour, the creature makes a Constitution (cook’s utensils) check against the DC of the recipe (see Ingredients and Recipe DC table). Depending on the difference between the DC and the result of the check, a magical meal can have [[Quirks Public | Quirksz]].
+A creature with all these in their possession can spend 1 hour cooking. At the conclusion of the hour, the creature makes a Constitution (cook’s utensils) check against the DC of the recipe (see Ingredients and Recipe DC table). Depending on the difference between the DC and the result of the check, a magical meal can have [[Quirks Public | Quirks]].
 
 *Helping Hands*
 Too many cooks spoil the broth, but a decent sous chef can pay dividends. For this reason, in place of using the Help action to grant advantage (a mechanic avoided in harvesting and crafting), one creature can help with the meal if it spends the entire hour helping the cook. If the creature has proficiency with cook’s utensils, it adds its proficiency bonus to the result of the Constitution (cook’s utensils) check. If it doesn’t have this proficiency, it adds half of its proficiency bonus to the result of the check instead.
