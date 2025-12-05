@@ -51,7 +51,7 @@ export const SyncArgv = {
     default: true,
     describe: "push updates to your Quartz fork",
   },
-  pull: {
+  pull: { 
     boolean: true,
     default: true,
     describe: "pull updates from your Quartz fork",

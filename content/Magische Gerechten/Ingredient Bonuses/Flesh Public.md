@@ -3,6 +3,7 @@ title: "Flesh"
 draft: false
 tags:
    - Ingredient
+   - Cooking
 ---
 Flesh fortifies the body with power. The first attack you make each turn that hits deals bonus damage of a type associated with the creature type of the flesh you ingested. The damage increases with rarity: uncommon, 1; rare, 2; very rare, 3; legendary, 4. 
 - Aberration. Psychic. 

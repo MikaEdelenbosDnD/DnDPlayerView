@@ -3,6 +3,7 @@ title: "Melora, The Wild Mother"
 draft: false
 tags:
   - Goden
+  - Prime Deities
 ---
 ![[Melora Public.webp]]
 # Melora, The Wild Mother

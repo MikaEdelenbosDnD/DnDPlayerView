@@ -3,6 +3,7 @@ title: "Fat"
 draft: false
 tags:
    - Ingredient
+   - Cooking
 ---
 Fat inures creatures to particular types of damage, decreasing the trauma caused when a creature takes damage of that type. Whenever you take damage of the type associated with the creature type whose fat you ingested, roll a die and subtract the result from that damage. The die is determined by the rarity: uncommon, 1d4; rare, 1d6; very rare, 1d8; legendary, 1d10. This damage reduction occurs before resistance is calculated. 
 - Aberration. Psychic. 

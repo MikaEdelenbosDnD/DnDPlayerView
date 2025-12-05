@@ -3,6 +3,7 @@ title: "Quirks"
 draft: false
 tags:
    - Cooking
+   - Cooking
 ---
 As with other crafting checks, there are degrees of success and failure. A well or badly made magical meal can end up with quirks—properties that grant additional favourable or detrimental effects. Unhelpful quirks are known as flaws, while advantageous ones are referred to as boons. The greater the margin by which a crafting check is failed or succeeded, the greater the number of quirks acquired. The number of boons a magical meal can gain is limited by the power of the essence used to craft it: the rarer the essence, the more boons it can sustain. A food’s quirks are rolled by the GM and aren’t known by those who consume the food until they become apparent. Cooking quirks are described later in this section. 
 *Repeated Results*

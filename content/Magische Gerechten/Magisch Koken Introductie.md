@@ -1,5 +1,5 @@
 ---
-title: "Introductie"
+title: "Magisch Koken Introductie"
 draft: false
 tags:
    - Cooking

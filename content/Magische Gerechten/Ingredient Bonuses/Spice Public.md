@@ -3,6 +3,7 @@ title: "Spice"
 draft: false
 tags:
    - Ingredient
+   - Cooking
 ---
 Spice incorporates everything from celestial and fiend dust to the primordial remains of elementals, ethereal ichor, and the pollen and spores of plants. The effects of spice are disparate, and last for the duration. 
 - Celestial. At uncommon rarity, you are continuously under the effects of the feather fall spell. At rare and higher rarities, you also gain a flying speed, which increases with rarity. 

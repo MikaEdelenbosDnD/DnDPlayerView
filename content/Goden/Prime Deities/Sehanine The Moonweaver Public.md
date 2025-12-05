@@ -3,6 +3,7 @@ title: "Sehanine, The Moonweaver"
 draft: false
 tags:
   - Goden
+  - Prime Deities
 ---
 ![[Sehanine Public.webp]]
 # Sehanine, The Moon Weaver

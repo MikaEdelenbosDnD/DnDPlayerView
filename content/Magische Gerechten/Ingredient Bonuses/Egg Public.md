@@ -3,6 +3,7 @@ title: "Egg"
 draft: false
 tags:
    - Ingredient
+   - Cooking
 ---
 Eggs contain the primed biomantic material for creatures of the component’s type. When you ingest a meal that contains egg, your body undergoes interesting morphological changes that last for the effect’s duration. 
 - Aberration. You grow a tentacle that can be used to hold non-armour items, or to grapple a creature, but not to make other attacks. You use the tentacle’s Strength modifier instead of your own when grappling with it. The Strength modifier of the tentacle increases with rarity. 

@@ -3,6 +3,7 @@ title: "Eye"
 draft: false
 tags:
    - Ingredient
+   - Cooking
 ---
 Eyes are strong receptacles of divination magic, and they tend to impart effects that help with perception and detection. For the duration, you: 
 - Aberration. Are under the effects of the detect magic spell. The radius of the sense increases with rarity. 

@@ -36,21 +36,8 @@ Het Cestius Accord heeft een losse alliantie met het Duweth Empire, deze losse a
 #### Revelry
 Tien jaar geleden, toen het Accord besloot om de belasting te heffen van de onafhankelijke handelsbedrijven die opereerden in de Vivarian Coast, leidde deze verontwaardiging tot de oprichting van de [[Revelry Public | Revelry]], een unie van boze handelaren die hun handel veranderden in piracy. De revelry heeft het eiland 'de Sunken Lagoon' opgeëist en opereren nu vanuit de verborgen stad van '[[Port Cavado Public | Port Cavado]]'. De strijd tussen Het Cestius Accord en revelry is nog volop bezig ondanks dat er een tijdelijke wapenstilstand is. Het Cestius Accord heeft meerdere bounties staan op de hoofden van de zogenaamde plagen van de oceaan.
 
-## Belangrijke Figuren
-> [!info]
-> # Eda Oweland
-> ###### Marquis van Saltmarsh
-> | Basis Informatie |  |
-> | ---- | ---- |
-> | **Leeftijd** | 62 |
-> | **Species** | Human |
-> |**Geslacht**| Vrouw |
-
-#### Eda Oweland, Marquis van Saltmarsh
-[[Eda Oweland Public | Eda]] is de Marquis van [[Saltmarsh Public | Saltmarsh]] en de eigenaar van de grootste vissersvloot van Saltmarsh. Geboren en getogen in Saltmarsh is Eda al drie jaar de Marquis van deze stad. Ze is een norse, pragmatische vrouw met kort grijzend haar en is een echte vrouw van het volk. Ze heeft grootse plannen om de vissers industrie uit te breiden met een nieuwe haven. Vanwege haar afhankelijkheid aan de vis industrie is ze één van de leiders tegen de [[Revelry Public | Revelry]].
-
 ## Goden
- In de Cestius Accord zijn de mensen vrij om elke van de hoofdgoden te volgen. [[Melora Public | Melora]] de god van de zee en wildernis de meest populaire god in het Cestius Accord. Het volgen van de Betrayer gods of lesser idols is verboden en staan straffen op.
+ In de Cestius Accord zijn de mensen vrij om elke van de hoofdgoden te volgen. [[Melora The Wild Mother Public| Melora]] de god van de zee en wildernis de meest populaire god in het Cestius Accord. Het volgen van de Betrayer gods of lesser idols is verboden en staan straffen op.
 
 ## Kaart
 ![[The Cestius Accord Player.png]]

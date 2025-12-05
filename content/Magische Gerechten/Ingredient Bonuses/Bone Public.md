@@ -3,6 +3,7 @@ title: "Bone"
 draft: false
 tags:
    - Ingredient
+   - Cooking
 ---
 The vitality stored within bones reinforces a creature’s resilience to certain types of effects. Except for celestial and undead bones, the effects don’t change with rarity. For the duration, you: 
 - Aberration. Have advantage on saving throws against the stunned condition. 

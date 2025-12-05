@@ -15,7 +15,7 @@ tags:
 >
 > | Organisaties |   | Handel |  |
 > | --- | --- | --- | ---- |
-> | Organisaties  | Cestius Accord, Revelry Loyalisten | Export | Vis, Edelstenen, Contraband, Vers |
+> | Organisaties | Cestius Accord, Revelry Loyalisten | Export | Vis, Edelstenen, Contraband, Vers |
 > | Tempels  | Melora | Import | Scheepsbenodigheden |
 > 
 > | Maatschappij |  |
@@ -80,40 +80,3 @@ Deze blacksmith is van Mafera en haar zoon Jasker, alle apparatuur is van dwarve
 ### Mariners Guild Hall
 De Mariners guildhall in Saltmarsh bedient alle steden langs de kust, en biedt een slaapplaats en een maaltijd voor zeemannen op doorreis. Ook is dit de plek om bemanning te vinden. De guildhall is een uitstekende plek om de zeevaart en de gevaren die er bij komen te bespreken.
 
-## Belangrijke Personen
-
-> [!info]
-> # Eda Oweland
-> ###### Marquis van Saltmarsh
-> | Basis Informatie | |
-> | ---- | ---- |
-> | **Leeftijd** | 62 |
-> | **Species** | Human |
-> |**Geslacht**| Vrouw |
-
-#### Eda Oweland, Marquis van Saltmarsh
-[[Eda Oweland Public | Eda]] is de Marquis van Saltmarsh en de eigenaar van de grootste vissersvloot van Saltmarsh. Geboren en getogen in Saltmarsh is Eda al drie jaar de Marquis van deze stad. Ze is een norse, pragmatische vrouw met kort grijzend haar en is een echte vrouw van het volk. Ze heeft grootse plannen om de vissers industrie uit te breiden met een nieuwe haven. Vanwege haar afhankelijkheid aan de vis industrie is ze één van de leiders tegen de [[Revelry Public | revelry]].
-
-> [!info]
-> # Gellan Primewater
-> ###### Rechterhand van Eda
-> | Basis Informatie | |
-> | ---- | ---- |
-> | **Leeftijd** | 68 |
-> | **Species** | Human |
-> |**Geslacht**| Man |
-
-#### Gellan Primewater, Close Advisor van Eda
-Gellan is de rechterhand van Eda, Gellan is een goed besproken, en bekleden oude man. Hij heeft een getrimde baard en draagt nette kleren. Gellan is verantwoordelijk voor de status die zijn familie nu beheert en is één van de belangrijkste handelaren van Saltmarsh. Ondanks dat Gellan de rechter hand is van Eda werkt hij achter de schermen samen met de [[Revelry Public | revelry]], als er iets gesmokkeld moet worden is hij de eerste keuze. Zijn schepen vervoeren alle soorten contraband van illegale goederen tot slaven.
-
-> [!info]
-> # Eliander Fireborn
-> ###### Hoofd Beveiliging
-> | Basis Informatie | |
-> | ---- | ---- |
-> | **Leeftijd** | 47 |
-> | **Species** | Human |
-> |**Geslacht**| Man |
-
-#### Eliander Fireborn, Hoofd Beveiliging
-Eliander overziet alle beveiliging in Saltmarsh, hij kan vrijwel altijd gevonden worden bij de barracken en gevangenis. Eliander is een man in zn late veertigers, een hoofd vol met kort grijs haar. In zijn tijd in het leger is hij zijn been verloren en loopt nu op een pin. Hij is door Eda verantwoordelijk gestelt om te [[Revelry Public | revelry]] in Saltmarsh op te sporen. 

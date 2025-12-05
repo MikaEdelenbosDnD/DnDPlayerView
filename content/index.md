@@ -12,7 +12,7 @@ title: Welkom in Exandria
 		- [[Saltmarsh Public | Saltmarsh]]
 	- Revelry
 		- [[Port Cavado Public | Port Cavado]]
-- Organisaties
+- [[Organisaties.html | Organisaties]]
 	- [[Cestius Accord Public | Cestius Accord]]
 	- [[Myriad Public | Myriad]]
 	- [[Revelry Public | Revelry]]
@@ -22,31 +22,30 @@ title: Welkom in Exandria
 		- [[Elias la Riqueza Public | Elias la Riqueza]]
 		- [[Ignacio Delgado Public | Ignacio Delgado]]
 		- [[Juan Serrano Public | Juan Serrano]]
-		- [[Valeriano Regla Public | Valeriano Regla]]
+		- [[Valeria Regla Public| Valeriano Regla]]
 	- Scarlet Rose Council
-		- [[Onbekende Vrouw Public | Onbekende Vrouw]]
-- Goden
-	- [[Melora Public | Melora]]
-	- [[Pelor Public | Pelor]]
-	- [[Sehanine Public | Sehanine]]
+		- [[Benoite Gavin Public| Benoite Gavin]]
+- [[Goden.html | Goden]]
+	- [[Goden Introductie Public | Goden Introductie]]
+	- [[Goden/Prime-Deities.html | Prime Deities]]
 - Gebeurtenissen
 	- [[Divergence Public | Divergence]]
 - Magische Gerechten
-	- [[Introductie]]
+	- [[Magisch Koken Introductie]]
 	- Ingredient Bonuses
-		- [[Blood Public]]
-		- [[Bone Public]]
-		- [[Brain Public]]
-		- [[Egg Public]]
-		- [[Eye Public]]
-		- [[Fat Public]]
-		- [[Flesh Public]]
-		- [[Heart Public]]
-		- [[Liver Public]]
-		- [[Quirks Public]]
-		- [[Spice Public]]
+		- [[Blood Public | Blood]]
+		- [[Bone Public | Bone]]
+		- [[Brain Public | Brain]]
+		- [[Egg Public | Egg]]
+		- [[Eye Public | Eye ]]
+		- [[Fat Public | Fat ]]
+		- [[Flesh Public | Flesh]]
+		- [[Heart Public | Heart]]
+		- [[Liver Public | Liver]]
+		- [[Quirks Public | Quirks]]
+		- [[Spice Public | Spice]]
 	- Recipes
-		- [[Magnetite Dragon Recipes Public]]
+		- [[Magnetite Dragon Recipes Public | Magnetite Dragon Recipes ]]
 - Misc
-	- [[Het Schip]]
+	- [[Het Schip Public | De VOC]]
 

@@ -3,6 +3,7 @@ title: "Pelor, The Dawn Father"
 draft: false
 tags:
    - Goden
+   - Prime Deities
 ---
 ![[Pelor Public.webp]]
 # Pelor, The Dawn Father

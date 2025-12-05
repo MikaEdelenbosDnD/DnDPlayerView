@@ -122,7 +122,7 @@ Een district gemaakt voor de Council of Six en de High C waar de council en de H
 > |**Geslacht**| Vrouw |
 
 #### Valeriano Regla, High C van de Revelry
-[[Valeriano Regla Public | Valeriano Regla]] beter bekend als de High C is de leider van de [[Revelry Public | Revelry]].
+[[Valeria Regla Public| Valeriano Regla]] beter bekend als de High C is de leider van de [[Revelry Public | Revelry]].
 
 > [!info]
 > # Elias la Riqueza
@@ -158,5 +158,3 @@ Een district gemaakt voor de Council of Six en de High C waar de council en de H
 > |**Geslacht**| Man |
 > |**Status**| Dood |
 
-#### Ignacio Delgado, Captain of the Black Blood Fleet
-[[Ignacio Delgado Public | Ignacio Delgado]] ook bekend als de Surgeon is de kapitein van de Black Blood Fleet en is onderdeel van de zes regerende Piraten onder de High C en overziet het spionnen netwerk in Port Cavado.

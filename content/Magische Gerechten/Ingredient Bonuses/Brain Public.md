@@ -3,6 +3,7 @@ title: "Brain"
 draft: false
 tags:
    - Ingredient
+   - Cooking
 ---
 Digesting brains imparts enhanced mental faculties. Of the edible brains, aberrations and humanoids have particularly unique abilities. For the duration, you: 
 - Aberration. Can communicate telepathically with creatures within a certain radius of you, which increases with rarity. You must be able to see the creature and share a language to communicate in this way. In addition, higher rarities grant you advantage on Insight checks (very rare and legendary) and put you under the effects of the detect thoughts spell (legendary). 
