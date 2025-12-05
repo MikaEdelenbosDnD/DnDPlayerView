@@ -10,6 +10,8 @@ title: Welkom in Exandria
 		- [[Lotusfall Public | Lotusfall]]
 		- [[Othe Public | Othe]]
 		- [[Saltmarsh Public | Saltmarsh]]
+	- Duweth Kingdom
+		- [[Yrrosa Public | Yrrosa]]
 	- Revelry
 		- [[Port Cavado Public | Port Cavado]]
 - [[Organisaties.html | Organisaties]]
@@ -18,13 +20,22 @@ title: Welkom in Exandria
 	- [[Revelry Public | Revelry]]
 	- [[Scarlet Rose Council Public | Scarlet Rose Council]]
 - Belangrijke Personen
+	- Lotusfall
+		- [[Liam Jadespine Public | Liam Jadespine]]
+		- [[Manuel Perfida Public | Manuel Perfida]]
 	- Port Cavado
+		- [[Edward Smalling Public | Edward Smalling]]
 		- [[Elias la Riqueza Public | Elias la Riqueza]]
 		- [[Ignacio Delgado Public | Ignacio Delgado]]
+		- [[Isabel Garcia Public | Isabel Garcia]]
 		- [[Juan Serrano Public | Juan Serrano]]
+		- [[Tito Guerrero Public | Tito Guerrero]]
 		- [[Valeria Regla Public| Valeriano Regla]]
 	- Scarlet Rose Council
+		- [[Adrien Bastin Public | Adrien Bastin]]
 		- [[Benoite Gavin Public| Benoite Gavin]]
+		- [[Malo Valin Public | Malo Valin]]
+		- [[Raphael la Prise Public | Raphael la Prise]]
 - [[Goden.html | Goden]]
 	- [[Goden Introductie Public | Goden Introductie]]
 	- [[Goden/Prime-Deities.html | Prime Deities]]
@@ -48,4 +59,5 @@ title: Welkom in Exandria
 		- [[Magnetite Dragon Recipes Public | Magnetite Dragon Recipes ]]
 - Misc
 	- [[Het Schip Public | De VOC]]
+	- [[Runechild Public | Runechild]]
 
