@@ -13,7 +13,7 @@ Er zijn maar weinig afbeeldingen van de Matron of Ravens; veel tempels gebruiken
 ## Holy Day
 De heilige dag van Matron of Ravens is de Night of Ascension, waarop haar apotheose wordt gevierd. De exacte datum waarop de godin tot godheid werd verheven is onduidelijk, maar de Night of Ascension wordt niettemin gevierd op de dertiende dag van de tiende maand. Veel inwoners van Pentaford vinden deze vrolijke viering van de doden zenuwslopend en macaber, maar de volgelingen van de Matron geloven dat de geëerde doden liever met vrolijkheid dan met ellende worden vereerd. De Matron of Ravens wordt door sommigen ook beschouwd als de berschermer van Winter's Crest, een feestdag waarop de bevrijding van Errevon de Rimelord wordt gevierd en die in Tal'Dorei op de twintigste dag van de elfde maand wordt gevierd.
 
-## Geboden van Pelor
+## Geboden van de Matron
 - De dood is het natuurlijke einde van het leven. Rouw om de gevallenen, maar heb geen medelijden met hen. Verheug je in de tijd die hun is gegund.
 - De Path of Fate is heilig. Degenen die trots hun lot afwijzen, moeten worden gestraft.
 - Undeath zijn is een gruweldaad. De dood is een te milde straf voor degenen die de rechtmatige overgang van de ziel verstoren.

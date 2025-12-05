@@ -13,7 +13,7 @@ Degenen die opstaan om de woorden van Everlight weer aan het licht te brengen, g
 ## Holy Day
 De heilige dag van Everlight is al lang vergeten en haar volgelingen moeten nog beslissen wanneer haar feestdag moet worden gehouden, of zelfs wat de festiviteiten moeten zijn. Het debat duurt al jaren en er zijn nog geen grote wonderen verricht om de ruziënde clerics te verenigen.
 
-## Geboden van Pelor
+## Geboden van Sarenrae
 - Leid met barmhartigheid, geduld en mededogen. Inspireer anderen om zich te verenigen in gemeenschap.
 - Help hen die geen gids hebben. Genees hen die geen hoop hebben.
 - Degenen die niet meer te redden zijn, die zich verheugen in moord en meedogenloos kwaad, moeten met snelle gerechtigheid worden afgemaakt.
